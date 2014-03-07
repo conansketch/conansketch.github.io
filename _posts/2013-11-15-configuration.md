@@ -7,7 +7,8 @@ fullview: true
 ---
 
 In your config file change these settings
-```
+
+```yaml
 title: dbyll
 author:
   name: yourname
