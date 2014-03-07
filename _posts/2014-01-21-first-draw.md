@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 初画像
+title: 初画像之兰与新一
 description: 兰与新一
 fullview: true
 published: true
