@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 初画像
-published: true
 description: 兰与新一
+fullview: true
+published: true
 ---
 
 
