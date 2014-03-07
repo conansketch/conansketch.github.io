@@ -1,7 +1,7 @@
 ---
+layout: post
+title: 初画像
 published: true
 ---
 
-## 
-
-![First Image](/images/sketches/yijie/2014/1.jpg)
+![第一幅画像](/images/sketches/yijie/2014/1.jpg)
