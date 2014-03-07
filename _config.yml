@@ -1,5 +1,5 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
-name: ¿ÂÀ¶ÊÖ»æ¹¤×÷ÊÒ
+name: æŸ¯è“æ‰‹ç»˜å·¥ä½œå®¤
 markdown: redcarpet
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
