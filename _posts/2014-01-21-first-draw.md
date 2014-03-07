@@ -2,6 +2,6 @@
 published: true
 ---
 
-## 第一张柯南画作
+## 
 
 ![First Image](/images/sketches/yijie/2014/1.jpg)
