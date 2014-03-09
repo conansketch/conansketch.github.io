@@ -69,8 +69,12 @@ h1 a,h2 a,h3 a,h4 a{ color: #f2756a; }
 h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover{ color: #e74c3c; }
 
 footer {
-	padding-top: 15px;
-	font-family: 'Ubuntu';
+    padding-top: 15px;
+    font-family: 'Ubuntu';
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* nav-vertical-tabs component */
