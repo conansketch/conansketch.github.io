@@ -5,7 +5,6 @@ categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
 published: false
-author:瞳轩
 ---
 
 In your config file change these settings

@@ -21,7 +21,7 @@ tagline:
             </span>
 
             <h2>
-                <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+                <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}{% if post.author %} - {{ post.author }}{% endif %}</a>
             </h2>
 
             <div>
