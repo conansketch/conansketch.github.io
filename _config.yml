@@ -1,5 +1,5 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
-name: 柯蓝手绘工作室
+name: 柯南手绘工作室
 markdown: redcarpet
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
@@ -15,7 +15,7 @@ author:
   twitter: asd123
   pinterest: asd123
   linkedin: asd123
-  bio: 原创动漫手绘展！
+  bio: 原创柯南动漫手绘展！
 
 rss_path: feed.xml
 categories_path: categories.html
